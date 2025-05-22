@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Pooja Panchal
 
 🔍 Experienced QA Automation Engineer & Web Developer  
-🧪 Skilled in Selenium, Postman, TestNG, JavaScript, Maven, and more
+🧪 Skilled in Selenium, Java, Postman, TestNG, JavaScript, Maven, and more
 
 ## 🚀 Tools & Technologies
 - QA: Selenium, Postman, TestNG
